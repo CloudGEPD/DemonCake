@@ -1,9 +1,13 @@
 fileFormatVersion: 2
-guid: bf363ec355c26014ebc673884b917327
-timeCreated: 1524648978
+guid: d2d9d6d173ea9d64fbf9be571bbaddec
+timeCreated: 1524655569
 licenseType: Free
 TextureImporter:
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    21300000: Rug_0
+    21300002: Rug_1
+    21300004: Rug_2
+    21300006: Rug_3
   externalObjects: {}
   serializedVersion: 4
   mipmaps:
@@ -78,7 +82,63 @@ TextureImporter:
     androidETC2FallbackOverride: 0
   spriteSheet:
     serializedVersion: 2
-    sprites: []
+    sprites:
+    - serializedVersion: 2
+      name: Rug_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 64
+        width: 34
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rug_1
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 79
+        width: 65
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rug_2
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 0
+        width: 34
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rug_3
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 15
+        width: 64
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
     outline: []
     physicsShape: []
   spritePackingTag: 
