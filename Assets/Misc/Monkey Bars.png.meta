@@ -1,10 +1,11 @@
 fileFormatVersion: 2
 guid: 3e3326ee2ba54d24892f58ad9f7fdcd4
-timeCreated: 1524677283
+timeCreated: 1525133872
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
     21300000: Monkey Bars_0
+    21300002: Monkey Bars_1
   externalObjects: {}
   serializedVersion: 4
   mipmaps:
@@ -87,6 +88,20 @@ TextureImporter:
         x: 25
         y: 0
         width: 14
+        height: 64
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Monkey Bars_1
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 0
+        width: 16
         height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
