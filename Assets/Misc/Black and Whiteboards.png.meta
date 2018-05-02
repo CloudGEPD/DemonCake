@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: d7c945f820b48dc4b8b5ef1d2d3d1930
-timeCreated: 1523921144
+timeCreated: 1525267805
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
@@ -9,6 +9,7 @@ TextureImporter:
     21300004: Black and Whiteboards_2
     21300006: Black and Whiteboards_3
     21300008: Black and Whiteboards_4
+    21300010: Black and Whiteboards_5
   externalObjects: {}
   serializedVersion: 4
   mipmaps:
@@ -135,7 +136,7 @@ TextureImporter:
         width: 97
         height: 33
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -148,6 +149,20 @@ TextureImporter:
         y: 0
         width: 104
         height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Black and Whiteboards_5
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 99
+        width: 92
+        height: 26
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
