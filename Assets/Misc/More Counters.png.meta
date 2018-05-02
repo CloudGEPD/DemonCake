@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: ddc0daa284cb8784098303ab3ba32128
-timeCreated: 1525133294
+timeCreated: 1525237261
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
@@ -118,8 +118,8 @@ TextureImporter:
       name: More Counters_2
       rect:
         serializedVersion: 2
-        x: 172
-        y: 131
+        x: 164
+        y: 130
         width: 19
         height: 57
       alignment: 0
