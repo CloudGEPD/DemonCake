@@ -1,12 +1,10 @@
 fileFormatVersion: 2
-guid: 770e43dca7ea20b4d85eaa57c50dd42f
-timeCreated: 1525276917
+guid: f5e102e0cff6d6d4b8bd32a7fce81b03
+timeCreated: 1525276347
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
-    21300000: Fridge_0
-    21300002: Fridge_1
-    21300004: Fridge_2
+    21300000: Chests_0
   externalObjects: {}
   serializedVersion: 4
   mipmaps:
@@ -49,7 +47,7 @@ TextureImporter:
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
-  spritePixelsToUnits: 24
+  spritePixelsToUnits: 16
   alphaUsage: 1
   alphaIsTransparency: 1
   spriteTessellationDetail: -1
@@ -83,41 +81,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Fridge_0
+      name: Chests_0
       rect:
         serializedVersion: 2
-        x: 15
-        y: 6
-        width: 15
-        height: 57
-      alignment: 0
-      pivot: {x: 0.5, y: 0.5}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Fridge_1
-      rect:
-        serializedVersion: 2
-        x: 2
-        y: 123
-        width: 9
-        height: 3
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      outline: []
-      physicsShape: []
-      tessellationDetail: 0
-    - serializedVersion: 2
-      name: Fridge_2
-      rect:
-        serializedVersion: 2
-        x: 1
-        y: 69
-        width: 29
-        height: 58
+        x: 4
+        y: 67
+        width: 26
+        height: 19
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}

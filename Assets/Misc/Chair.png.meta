@@ -1,11 +1,13 @@
 fileFormatVersion: 2
 guid: 62a83cc836aad7e4ab051cd8553fe3bc
-timeCreated: 1525232225
+timeCreated: 1525278119
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
     21300000: Chair_0
     21300002: Chair_1
+    21300004: Chair_2
+    21300006: Chair_3
   externalObjects: {}
   serializedVersion: 4
   mipmaps:
@@ -102,6 +104,34 @@ TextureImporter:
         x: 38
         y: 1
         width: 20
+        height: 30
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chair_2
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 32
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chair_3
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 31
+        width: 23
         height: 30
       alignment: 0
       pivot: {x: 0, y: 0}

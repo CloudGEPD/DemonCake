@@ -1,10 +1,11 @@
 fileFormatVersion: 2
 guid: 0c56526a472c67340b85e3a803b5fc01
-timeCreated: 1525237415
+timeCreated: 1525277997
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
     21300000: Long Table (1)_0
+    21300002: Long Table (1)_1
   externalObjects: {}
   serializedVersion: 4
   mipmaps:
@@ -47,7 +48,7 @@ TextureImporter:
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
-  spritePixelsToUnits: 44
+  spritePixelsToUnits: 32
   alphaUsage: 1
   alphaIsTransparency: 1
   spriteTessellationDetail: -1
@@ -88,6 +89,20 @@ TextureImporter:
         y: 98
         width: 16
         height: 93
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Long Table (1)_1
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 159
+        width: 88
+        height: 30
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}

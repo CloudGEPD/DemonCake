@@ -1,11 +1,12 @@
 fileFormatVersion: 2
 guid: 2849f3cff8a00bd49802520699200e54
-timeCreated: 1525232873
+timeCreated: 1525281576
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
     21300000: Plates_0
     21300002: Plates_1
+    21300004: Plates_2
   externalObjects: {}
   serializedVersion: 4
   mipmaps:
@@ -48,7 +49,7 @@ TextureImporter:
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
-  spritePixelsToUnits: 64
+  spritePixelsToUnits: 74
   alphaUsage: 1
   alphaIsTransparency: 1
   spriteTessellationDetail: -1
@@ -103,6 +104,20 @@ TextureImporter:
         y: 64
         width: 34
         height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Plates_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 92
+        width: 31
+        height: 19
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}

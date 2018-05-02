@@ -1,6 +1,6 @@
 fileFormatVersion: 2
 guid: 1db9a9a32f6abb240865b998cb42b759
-timeCreated: 1524656712
+timeCreated: 1525277325
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
@@ -9,6 +9,8 @@ TextureImporter:
     21300004: Counters with Sinks_2
     21300006: Counters with Sinks_3
     21300008: Counters with Sinks_4
+    21300010: Counters with Sinks_5
+    21300012: Counters with Sinks_6
   externalObjects: {}
   serializedVersion: 4
   mipmaps:
@@ -51,7 +53,7 @@ TextureImporter:
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
-  spritePixelsToUnits: 32
+  spritePixelsToUnits: 24
   alphaUsage: 1
   alphaIsTransparency: 1
   spriteTessellationDetail: -1
@@ -135,7 +137,7 @@ TextureImporter:
         width: 65
         height: 25
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
@@ -148,6 +150,34 @@ TextureImporter:
         y: 223
         width: 65
         height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Counters with Sinks_5
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 116
+        width: 15
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Counters with Sinks_6
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 64
+        width: 65
+        height: 57
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
