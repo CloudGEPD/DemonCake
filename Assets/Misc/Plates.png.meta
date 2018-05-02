@@ -1,11 +1,11 @@
 fileFormatVersion: 2
-guid: a6bd7ddb59dbb3b47bd783a106093795
-timeCreated: 1525231548
+guid: 2849f3cff8a00bd49802520699200e54
+timeCreated: 1525232873
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
-    21300000: White Bookshelf_0
-    21300002: White Bookshelf_1
+    21300000: Plates_0
+    21300002: Plates_1
   externalObjects: {}
   serializedVersion: 4
   mipmaps:
@@ -48,7 +48,7 @@ TextureImporter:
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
-  spritePixelsToUnits: 32
+  spritePixelsToUnits: 64
   alphaUsage: 1
   alphaIsTransparency: 1
   spriteTessellationDetail: -1
@@ -82,27 +82,27 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: White Bookshelf_0
+      name: Plates_0
       rect:
         serializedVersion: 2
-        x: 46
-        y: 71
-        width: 18
-        height: 55
+        x: 0
+        y: 0
+        width: 32
+        height: 30
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: White Bookshelf_1
+      name: Plates_1
       rect:
         serializedVersion: 2
-        x: 64
-        y: 70
-        width: 17
-        height: 56
+        x: 0
+        y: 64
+        width: 34
+        height: 22
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
