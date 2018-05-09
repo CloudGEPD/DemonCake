@@ -1,7 +1,7 @@
 ﻿using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
-//[AddComponentMenu("Controls/Player Movement")]
+[AddComponentMenu("Controls/Player Movement")]
 
 public class Movement : MonoBehaviour
 {
