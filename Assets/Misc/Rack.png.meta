@@ -1,10 +1,11 @@
 fileFormatVersion: 2
 guid: 6f779dfe0a6762445b7d5836f4521107
-timeCreated: 1525278917
+timeCreated: 1525872302
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
     21300000: Rack_0
+    21300002: Rack_1
   externalObjects: {}
   serializedVersion: 4
   mipmaps:
@@ -47,7 +48,7 @@ TextureImporter:
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
-  spritePixelsToUnits: 24
+  spritePixelsToUnits: 64
   alphaUsage: 1
   alphaIsTransparency: 1
   spriteTessellationDetail: -1
@@ -88,6 +89,20 @@ TextureImporter:
         y: 42
         width: 58
         height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Rack_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 64
+        height: 64
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
