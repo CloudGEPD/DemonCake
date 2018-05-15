@@ -1,10 +1,11 @@
 fileFormatVersion: 2
 guid: f5e102e0cff6d6d4b8bd32a7fce81b03
-timeCreated: 1525276347
+timeCreated: 1526418701
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
     21300000: Chests_0
+    21300002: Chests_1
   externalObjects: {}
   serializedVersion: 4
   mipmaps:
@@ -88,6 +89,20 @@ TextureImporter:
         y: 67
         width: 26
         height: 19
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Chests_1
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 68
+        width: 28
+        height: 20
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}

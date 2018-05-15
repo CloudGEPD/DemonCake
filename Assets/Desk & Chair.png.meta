@@ -1,11 +1,11 @@
 fileFormatVersion: 2
-guid: 6f779dfe0a6762445b7d5836f4521107
-timeCreated: 1525872302
+guid: 008629d6cd2856f489f8a368ffc58068
+timeCreated: 1526421147
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
-    21300000: Rack_0
-    21300002: Rack_1
+    21300000: Desk & Chair_0
+    21300002: Desk & Chair_1
   externalObjects: {}
   serializedVersion: 4
   mipmaps:
@@ -48,7 +48,7 @@ TextureImporter:
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
-  spritePixelsToUnits: 32
+  spritePixelsToUnits: 34
   alphaUsage: 1
   alphaIsTransparency: 1
   spriteTessellationDetail: -1
@@ -82,27 +82,27 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Rack_0
+      name: Desk & Chair_0
       rect:
         serializedVersion: 2
-        x: 3
-        y: 42
-        width: 58
-        height: 8
+        x: 34
+        y: 62
+        width: 23
+        height: 30
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       outline: []
       physicsShape: []
       tessellationDetail: 0
     - serializedVersion: 2
-      name: Rack_1
+      name: Desk & Chair_1
       rect:
         serializedVersion: 2
-        x: 0
-        y: 0
-        width: 64
-        height: 64
+        x: 64
+        y: 33
+        width: 28
+        height: 32
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}

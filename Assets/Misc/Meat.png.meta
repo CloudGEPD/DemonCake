@@ -1,10 +1,11 @@
 fileFormatVersion: 2
 guid: bfafd26a949e7a1478fe8eb1c0be5b48
-timeCreated: 1525281511
+timeCreated: 1526420582
 licenseType: Free
 TextureImporter:
   fileIDToRecycleName:
     21300000: Meat_0
+    21300002: Meat_1
   externalObjects: {}
   serializedVersion: 4
   mipmaps:
@@ -88,6 +89,20 @@ TextureImporter:
         y: 41
         width: 22
         height: 14
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: Meat_1
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1
+        width: 24
+        height: 23
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
